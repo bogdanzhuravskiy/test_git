@@ -5,3 +5,4 @@ TypeScript
 NodeJs
 SQL
 FireBase
+Python
